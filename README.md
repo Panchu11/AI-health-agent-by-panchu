@@ -5,7 +5,7 @@ The **AI Health & Fitness Planner** is a personalized health and fitness Agent p
 ## Features
 
 - **Health Agent and Fitness Agent**
-    - The app has two phidata agents that are specialists in giving Diet advice and Fitness,workout advice respectively.
+    - The app has two phidata agents that are specialists in giving Diet advice and Fitness, workout advice respectively.
 
 - **Personalized Dietary Plans**:
   - Generates detailed meal plans (breakfast, lunch, dinner, and snacks).
