@@ -17,7 +17,7 @@ The **AI Health & Fitness Planner** is a personalized health and fitness Agent p
   - Covers warm-ups, main workouts, and cool-downs.
   - Includes actionable fitness tips and progress tracking advice.
 
-- **Interactive Q&A**: Allows users to ask follow-up questions about their plans.
+- **Interactive Q&A**: Allows users to ask follow-up questions about their Plans.
 
 
 ## Requirements
