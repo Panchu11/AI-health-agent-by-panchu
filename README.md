@@ -13,7 +13,7 @@ The **AI Health & Fitness Planner** is a personalized health and fitness Agent p
   - Supports various dietary preferences like Keto, Vegetarian, Low Carb, etc.
 
 - **Personalized Fitness Plans**:
-  - Provides customized exercise routines based on fitness goals.
+  - Provides customized exercise routines based on Fitness goals.
   - Covers warm-ups, main workouts, and cool-downs.
   - Includes actionable fitness tips and progress tracking advice.
 
